@@ -1,4 +1,4 @@
-# MA_Fabienne_Stein
+# MA Fabienne Stein
 
 This repository contains the data of my mater thesis.
 
