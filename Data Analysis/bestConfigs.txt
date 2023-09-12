@@ -1,0 +1,88 @@
+prophetp: 1
+
+prophetd: 0
+
+prophetq: 7
+
+---------------------
+prophetchangepoint_prior_scale: 0.007688078213640903
+
+prophetseasonality_prior_scale: 1.9832398736789958
+
+prophetholidays_prior_scale: 10.0
+
+prophetseasonality_mode: multiplicative
+
+---------------------
+prophetchangepoint_prior_scale: 0.012719335451304213
+
+prophetseasonality_prior_scale: 10.0
+
+prophetholidays_prior_scale: 6.352374965538677
+
+prophetseasonality_mode: additive
+
+---------------------
+prophetchangepoint_prior_scale: 0.04166241988788963
+
+prophetseasonality_prior_scale: 3.205653918745386
+
+prophetholidays_prior_scale: 5.03178716463078
+
+prophetseasonality_mode: additive
+
+---------------------
+prophetchangepoint_prior_scale: 0.05
+
+prophetseasonality_prior_scale: 4.375210338780521
+
+prophetholidays_prior_scale: 7.8114783292528545
+
+prophetseasonality_mode: additive
+
+---------------------
+prophetchangepoint_prior_scale: 0.004948509668127657
+
+prophetseasonality_prior_scale: 10.0
+
+prophetholidays_prior_scale: 10.0
+
+prophetseasonality_mode: multiplicative
+
+---------------------
+prophetchangepoint_prior_scale: 0.004416244696760927
+
+prophetseasonality_prior_scale: 10.0
+
+prophetholidays_prior_scale: 5.5244051491493655
+
+prophetseasonality_mode: multiplicative
+
+---------------------
+prophetchangepoint_prior_scale: 0.02398349540038176
+
+prophetseasonality_prior_scale: 6.418675786755654
+
+prophetholidays_prior_scale: 8.022294982717984
+
+prophetseasonality_mode: additive
+
+---------------------
+prophetchangepoint_prior_scale: 0.008028197095313295
+
+prophetseasonality_prior_scale: 5.088500849801115
+
+prophetholidays_prior_scale: 10.0
+
+prophetseasonality_mode: multiplicative
+
+---------------------
+prophetchangepoint_prior_scale: 0.019764413594828837
+
+prophetseasonality_prior_scale: 6.700096791112395
+
+prophetholidays_prior_scale: 10.0
+
+prophetseasonality_mode: additive
+
+---------------------
