@@ -1,6 +1,6 @@
 # MA Fabienne Stein
 
-This repository contains the data of my mater thesis.
+This repository contains the data of my master's thesis.
 
 There are two folders: One containing the code for the use cases of the autoML frameworks, the other contains the data analysis part.
 
